@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">PopCornTV</string>
+    <string name="title_activity_welcome">WelcomeActivity</string>
+    <string name="title_activity_new_celeb">Add New Celeb</string>
+    <string name="title_activity_new_post">Add New Post</string>
+    <string name="celeb_name">Celeb Name</string>
+    <string name="celeb_name_spinner">Select Celebrity:</string>
+    <string name="post_name_spinner">Select Post:</string>
+    <string name="hint_celeb_name">Celeb Name Here</string>
+    <string name="btn_save_post">Save Post</string>
+    <string name="btn_create">Create Post</string>
+    <string name="hint_post_desc">Post Description Here</string>
+    <string name="hint_post_views">Post Views Here</string>
+    <string name="btn_close">Close</string>
+    <string name="full_page_ad">This is a full page ad</string>
+    <string name="image_count">Image Count: </string>
+    <string name="add_post_images">Add Post Images</string>
+    <string name="btn_save_celeb">Save Celeb</string>
+    <string name="search_hint">Search Actress</string>
+    <string name="action_search">Search</string>
+</resources>
